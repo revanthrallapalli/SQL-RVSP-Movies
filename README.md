@@ -14,4 +14,5 @@ You are a data analyst and an SQL expert. You have to use SQL to analyze the giv
 3. Please download the SQL script file given containing all the commands and data required for the database creation using the Excel sheet above.
 4. You can run this script to load the data on the MySQL workbench and start with the querying exercises on the database.
 
+![image](https://github.com/revanthrallapalli/SQL-RVSP-Movies/assets/122799910/078203db-7141-4fc7-a9fb-1d87f4e7b3c0)
 
